@@ -9,6 +9,8 @@ The Image below shows the highest Sales
 The Image below shows the count province by Customer group
 ![highest province](https://github.com/user-attachments/assets/91324f33-3864-46bc-8348-4a25cd8b0ed1)
 Lastly, the Image below was generated using PowerBI service to find the Sales YTD by Category
+![YTD](https://github.com/user-attachments/assets/d73ab420-76b8-45a9-ae7f-767afaabab64)
+
 
 
 
